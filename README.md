@@ -20,7 +20,7 @@
         <p>Jednym z kluczowych elementów HappyMeal jest łatwość obsługi – nasz intuicyjny interfejs pozwala na szybkie i bezproblemowe zamawianie posiłków, które można dostosować do własnych wymagań dietetycznych. Dzięki funkcji śledzenia zamówień, użytkownicy mogą na bieżąco monitorować status swoich dostaw, co zapewnia pełną kontrolę i poczucie bezpieczeństwa.</p>
     </div>
     <div class="footer">
-        <p>&copy; Kontakt: HappyMeal@gmail.com</p>
+        <p> Kontakt: HappyMeal@gmail.com</p>
     </div>
 </body>
 </html>
